@@ -1,1 +1,1 @@
-{'ver1':'21', 'ver2':'00', 'ver3':'\n[تحديث] قاعدة 2.23.9.75\n[تحديث  جديد وممتع قم بتحميله من خلال رابط التنزيل  \n' , 'dli':'http://abuhudhaifaaljabri.blogspot.com/2021/08/blog-post_30.html'}
+{'ver1':'21', 'ver2':'00', 'ver3':'\n[تحديث] قاعدة 2.23.13.76\n[تحديث  جديد وممتع قم بتحميله من خلال رابط التنزيل  \n' , 'dli':'http://abuhudhaifaaljabri.blogspot.com/2021/08/blog-post_30.html'}
